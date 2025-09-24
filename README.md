@@ -43,12 +43,12 @@ git clone https://github.com/Karthikgs3/HoenScanner-SkyScanner.git
 cd HoenScanner-SkyScanner
 ```
 ## Build the project using maven or gradle
-# For Maven
+ **For Maven**
 - mvn clean install
 
-# For Gradle
+**For Gradle**
 - gradle build
-# run the service
+**run the service**
 - java -jar target/hoenscanner-1.0-SNAPSHOT.jar server config.yml
 
 🔍 API Usage
